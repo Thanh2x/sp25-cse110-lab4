@@ -32,8 +32,8 @@
     e. false as true becomes 1, and 1 == 2 is false
     f. True as boolean(2) returns true because 2 is not 0 so true == true is true
 15. == is comparing two things, and it alows type conversion, and === does not allow type conversion so it is more strict
-17. the newArr will be [2,4,6] because when we do modify array, we loop through the whole array, but for each element, we cann another callback funciton on it which returns the value of it doubled, and then we push that value into the newArr and repeat,
-19. output:
+17.the newArr will be [2,4,6] because when we do modify array, we loop through the whole array, but for each element, we cann another callback funciton on it which returns the value of it doubled, and then we push that value into the newArr and repeat,
+19.output:
     1
     4
     3
