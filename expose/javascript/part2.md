@@ -38,4 +38,4 @@
     4
     3
     2
-    console.log(1) runs immidiately, and 3 and 2 are in time outs so console.log(4) prints right after and since the timeout for 3 is 0, it prints after that and finally prints 2 after 1000 ms
+    console.log(1) runs immidiately, and 3 and 2 are in time outs so console.log(4) prints right after and since the timeout for 3 is 0, it prints after that and finally prints 2 after 1000 ms!
