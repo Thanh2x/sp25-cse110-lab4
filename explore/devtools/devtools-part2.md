@@ -1,0 +1,2 @@
+1. The bug was that num1 and num2 were strings instead of integers, which cause string concatanation instead of adding numeric values
+2. I would fix this by type casting num1 aand num2 into numbers, so that we get integer addition
